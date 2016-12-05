@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 353c3848d22f5e44fac2924c1d5e6e9e
+timeCreated: 1471506267
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AletaGreen
+    21300002: BodyGreen
+    21300004: Base
+    21300006: HeadGreenA
+    21300008: HeadGreenB
+    21300010: HeadRedB
+    21300012: HeadRedA
+    21300014: BodyRed
+    21300016: AletaRed
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AletaGreen
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 489
+        width: 69
+        height: 23
+      alignment: 9
+      pivot: {x: 0.4878039, y: 0.792714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BodyGreen
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 373
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Base
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 105
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HeadGreenA
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 257
+        width: 42
+        height: 60
+      alignment: 9
+      pivot: {x: 0.62022144, y: 0.10727641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HeadGreenB
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 191
+        width: 29
+        height: 59
+      alignment: 9
+      pivot: {x: 0.70313317, y: 0.12914702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HeadRedB
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 19
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6328776, y: 0.1423401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HeadRedA
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 104
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5870564, y: 0.1794092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BodyRed
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AletaRed
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 20
+        width: 44
+        height: 15
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.8366216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

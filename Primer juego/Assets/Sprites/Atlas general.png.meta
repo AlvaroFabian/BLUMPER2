@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: cec0ac869bb1f994ea29f4eb5550b983
+timeCreated: 1472889963
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Llama
+    21300002: Atlas general_1
+    21300004: PicoSparrow
+    21300006: EfectoExplosion
+    21300008: GloboAzul
+    21300010: GloboRojo
+    21300012: CascoPirana
+    21300014: Atlas general_7
+    21300016: AlaSparrow
+    21300018: Bomba
+    21300020: Lanza
+    21300022: BocaF
+    21300024: ParpadoDEs
+    21300026: ParpadoIEs
+    21300028: Vida
+    21300030: PFrente
+    21300032: ParpadoD
+    21300034: ParpadoI
+    21300036: CejaDL
+    21300038: CejaIL
+    21300040: PupilaDL
+    21300042: PupilaIL
+    21300044: Erizo
+    21300046: ParpadoDL
+    21300048: BocaL
+    21300050: CejaI
+    21300052: CejaD
+    21300054: ParpadoDI
+    21300056: PersonajeL
+    21300058: Atlas general_29
+    21300060: BrazoIF
+    21300062: SombraI
+    21300064: SombraD
+    21300066: BrazoDF
+    21300068: PupilaF
+    21300070: AspiradoraA
+    21300072: Aspiradora
+    21300074: Atlas general_37
+    21300076: BocaD
+    21300078: Atlas general_39
+    21300080: BrazoDL
+    21300082: BrazoIL
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Llama
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 466
+        width: 23
+        height: 44
+      alignment: 9
+      pivot: {x: 0.31136516, y: 0.122016214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Atlas general_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 360
+        width: 108
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PicoSparrow
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 463
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: EfectoExplosion
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 359
+        width: 237
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GloboAzul
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 251
+        width: 109
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5237953, y: 0.03066045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GloboRojo
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 160
+        width: 109
+        height: 336
+      alignment: 9
+      pivot: {x: 0.52379584, y: 0.28385672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CascoPirana
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 365
+        width: 142
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Atlas general_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 405
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AlaSparrow
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 386
+        width: 71
+        height: 67
+      alignment: 9
+      pivot: {x: 0.07380182, y: 0.37095892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomba
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lanza
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 300
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BocaF
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 313
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ParpadoDEs
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 301
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ParpadoIEs
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 277
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vida
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 271
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PFrente
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 124
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ParpadoD
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 196
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ParpadoI
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 193
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CejaDL
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 257
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.82421494, y: 0.23168314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CejaIL
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 251
+        width: 26
+        height: 16
+      alignment: 9
+      pivot: {x: 0.20072585, y: 0.3919258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PupilaDL
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 208
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PupilaIL
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 206
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Erizo
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 154
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ParpadoDL
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 107
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BocaL
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 179
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CejaI
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 135
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.82421494, y: 0.26149672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CejaD
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 138
+        width: 35
+        height: 21
+      alignment: 9
+      pivot: {x: 0.05536281, y: 0.25297838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ParpadoDI
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 115
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PersonajeL
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 5
+        width: 129
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Atlas general_29
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 129
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BrazoIF
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 61
+        width: 56
+        height: 43
+      alignment: 9
+      pivot: {x: 0.8615499, y: 0.802693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SombraI
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 58
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SombraD
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 54
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BrazoDF
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 45
+        width: 53
+        height: 46
+      alignment: 9
+      pivot: {x: 0.17255847, y: 0.83011097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PupilaF
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 38
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AspiradoraA
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 0
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Aspiradora
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 107
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Atlas general_37
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 60
+        height: 29
+      alignment: 9
+      pivot: {x: 0.16641827, y: 0.4734544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BocaD
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 6
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Atlas general_39
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 4
+        width: 59
+        height: 29
+      alignment: 9
+      pivot: {x: 0.17381184, y: 0.5000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BrazoDL
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 5
+        width: 69
+        height: 46
+      alignment: 9
+      pivot: {x: 0.7744574, y: 0.7590101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BrazoIL
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 15
+        width: 57
+        height: 41
+      alignment: 9
+      pivot: {x: 0.16630474, y: 0.7741321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

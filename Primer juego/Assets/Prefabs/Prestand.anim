@@ -1,0 +1,994 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Prestand
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.02, y: -0.28, z: 0.05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: -0.02, y: -0.28, z: 0.05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Personaje4/BocaD
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.022260189, y: -0.14140648, z: -0.03}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: -0.022260189, y: -0.14140648, z: -0.03}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Personaje4/BocaF
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.33, y: 0.4, z: 0}
+        inSlope: {x: 0.025000006, y: 0, z: 0}
+        outSlope: {x: 0.025000006, y: 0, z: 0}
+        tangentMode: 0
+      - time: 2
+        value: {x: -0.28, y: 0.4, z: 0}
+        inSlope: {x: -0.004999995, y: -0.0775, z: 0}
+        outSlope: {x: -0.004999995, y: -0.0775, z: 0}
+        tangentMode: 0
+      - time: 4
+        value: {x: -0.35, y: 0.09, z: 0}
+        inSlope: {x: 0.0075000003, y: -0.0775, z: 0}
+        outSlope: {x: 0.0075000003, y: -0.0775, z: 0}
+        tangentMode: 0
+      - time: 6
+        value: {x: -0.25, y: 0.09, z: 0}
+        inSlope: {x: 0.004999995, y: 0.0775, z: 0}
+        outSlope: {x: 0.004999995, y: 0.0775, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: -0.33, y: 0.4, z: 0}
+        inSlope: {x: -0.040000007, y: 0.155, z: 0}
+        outSlope: {x: -0.040000007, y: 0.155, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Personaje4/Pupilas
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.25, y: 0.4, z: 0}
+        inSlope: {x: 0.025000006, y: 0, z: 0}
+        outSlope: {x: 0.025000006, y: 0, z: 0}
+        tangentMode: 0
+      - time: 2
+        value: {x: 0.3, y: 0.4, z: 0}
+        inSlope: {x: -0.004999999, y: -0.0775, z: 0}
+        outSlope: {x: -0.004999999, y: -0.0775, z: 0}
+        tangentMode: 0
+      - time: 4
+        value: {x: 0.23, y: 0.09, z: 0}
+        inSlope: {x: 0.0075000003, y: -0.0775, z: 0}
+        outSlope: {x: 0.0075000003, y: -0.0775, z: 0}
+        tangentMode: 0
+      - time: 6
+        value: {x: 0.33, y: 0.09, z: 0}
+        inSlope: {x: 0.004999999, y: 0.0775, z: 0}
+        outSlope: {x: 0.004999999, y: 0.0775, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0.25, y: 0.4, z: 0}
+        inSlope: {x: -0.040000007, y: 0.155, z: 0}
+        outSlope: {x: -0.040000007, y: 0.155, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Personaje4/PupilaF (1)
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.09436178, y: 0.79, z: 0.022031307}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.8333334
+        value: {x: 0.09436178, y: 0.79, z: 0.022031307}
+        inSlope: {x: 0, y: -0.02076924, z: 0}
+        outSlope: {x: 0, y: -0.02076924, z: 0}
+        tangentMode: 0
+      - time: 4
+        value: {x: 0.09436178, y: 0.7, z: 0.022031307}
+        inSlope: {x: 0, y: -0.009519236, z: 0}
+        outSlope: {x: 0, y: -0.009519236, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0.09436178, y: 0.79, z: 0.022031307}
+        inSlope: {x: 0, y: 0.022500008, z: 0}
+        outSlope: {x: 0, y: 0.022500008, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Personaje4/Cejas
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.27236223, y: 0.23560017, z: 0.05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.43333334
+        value: {x: 0.27236223, y: 0.23560017, z: 0.05}
+        inSlope: {x: 0, y: 0, z: -0.07500001}
+        outSlope: {x: 0, y: 0, z: -0.07500001}
+        tangentMode: 0
+      - time: 0.8333333
+        value: {x: 0.27236223, y: 0.23560017, z: -0.01}
+        inSlope: {x: 0, y: 0, z: -0.0150000155}
+        outSlope: {x: 0, y: 0, z: -0.0150000155}
+        tangentMode: 0
+      - time: 1.3333334
+        value: {x: 0.27236223, y: 0.23560017, z: 0.05}
+        inSlope: {x: 0, y: 0, z: 0.059999995}
+        outSlope: {x: 0, y: 0, z: 0.059999995}
+        tangentMode: 0
+      - time: 6.4
+        value: {x: 0.27236223, y: 0.23560017, z: 0.05}
+        inSlope: {x: 0, y: 0, z: -0.07499999}
+        outSlope: {x: 0, y: 0, z: -0.07499999}
+        tangentMode: 0
+      - time: 6.8
+        value: {x: 0.27236223, y: 0.23560017, z: -0.01}
+        inSlope: {x: 0, y: 0, z: -0.018749982}
+        outSlope: {x: 0, y: 0, z: -0.018749982}
+        tangentMode: 0
+      - time: 7.3333335
+        value: {x: 0.27236223, y: 0.23560017, z: 0.05}
+        inSlope: {x: 0, y: 0, z: 0.11250001}
+        outSlope: {x: 0, y: 0, z: 0.11250001}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Personaje4/ParpadoD
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.301, y: 0.236, z: 0.05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.43333334
+        value: {x: -0.301, y: 0.236, z: 0.05}
+        inSlope: {x: 0, y: 0, z: -0.07500001}
+        outSlope: {x: 0, y: 0, z: -0.07500001}
+        tangentMode: 0
+      - time: 0.8333333
+        value: {x: -0.301, y: 0.236, z: -0.01}
+        inSlope: {x: 0, y: 0, z: -0.0150000155}
+        outSlope: {x: 0, y: 0, z: -0.0150000155}
+        tangentMode: 0
+      - time: 1.3333334
+        value: {x: -0.301, y: 0.236, z: 0.05}
+        inSlope: {x: 0, y: 0, z: 0.059999995}
+        outSlope: {x: 0, y: 0, z: 0.059999995}
+        tangentMode: 0
+      - time: 6.4
+        value: {x: -0.301, y: 0.236, z: 0.05}
+        inSlope: {x: 0, y: 0, z: -0.07499999}
+        outSlope: {x: 0, y: 0, z: -0.07499999}
+        tangentMode: 0
+      - time: 6.8
+        value: {x: -0.301, y: 0.236, z: -0.01}
+        inSlope: {x: 0, y: 0, z: -0.018749982}
+        outSlope: {x: 0, y: 0, z: -0.018749982}
+        tangentMode: 0
+      - time: 7.3333335
+        value: {x: -0.301, y: 0.236, z: 0.05}
+        inSlope: {x: 0, y: 0, z: 0.11250001}
+        outSlope: {x: 0, y: 0, z: 0.11250001}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Personaje4/ParpadoI
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 1139619397
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3526321140
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 666156171
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 70883683
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2055792094
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3255167967
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 738953971
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 8
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.02
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: -0.02
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Personaje4/BocaD
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.28
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: -0.28
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Personaje4/BocaD
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.05
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.05
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Personaje4/BocaD
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.022260189
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: -0.022260189
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Personaje4/BocaF
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.14140648
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: -0.14140648
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Personaje4/BocaF
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.03
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: -0.03
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Personaje4/BocaF
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.33
+        inSlope: 0.025000006
+        outSlope: 0.025000006
+        tangentMode: 10
+      - time: 2
+        value: -0.28
+        inSlope: -0.004999995
+        outSlope: -0.004999995
+        tangentMode: 10
+      - time: 4
+        value: -0.35
+        inSlope: 0.0075000003
+        outSlope: 0.0075000003
+        tangentMode: 10
+      - time: 6
+        value: -0.25
+        inSlope: 0.004999995
+        outSlope: 0.004999995
+        tangentMode: 10
+      - time: 8
+        value: -0.33
+        inSlope: -0.040000007
+        outSlope: -0.040000007
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Personaje4/Pupilas
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.4
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: 0.4
+        inSlope: -0.0775
+        outSlope: -0.0775
+        tangentMode: 10
+      - time: 4
+        value: 0.09
+        inSlope: -0.0775
+        outSlope: -0.0775
+        tangentMode: 10
+      - time: 6
+        value: 0.09
+        inSlope: 0.0775
+        outSlope: 0.0775
+        tangentMode: 10
+      - time: 8
+        value: 0.4
+        inSlope: 0.155
+        outSlope: 0.155
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Personaje4/Pupilas
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Personaje4/Pupilas
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.25
+        inSlope: 0.025000006
+        outSlope: 0.025000006
+        tangentMode: 10
+      - time: 2
+        value: 0.3
+        inSlope: -0.004999999
+        outSlope: -0.004999999
+        tangentMode: 10
+      - time: 4
+        value: 0.23
+        inSlope: 0.0075000003
+        outSlope: 0.0075000003
+        tangentMode: 10
+      - time: 6
+        value: 0.33
+        inSlope: 0.004999999
+        outSlope: 0.004999999
+        tangentMode: 10
+      - time: 8
+        value: 0.25
+        inSlope: -0.040000007
+        outSlope: -0.040000007
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Personaje4/PupilaF (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.4
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: 0.4
+        inSlope: -0.0775
+        outSlope: -0.0775
+        tangentMode: 10
+      - time: 4
+        value: 0.09
+        inSlope: -0.0775
+        outSlope: -0.0775
+        tangentMode: 10
+      - time: 6
+        value: 0.09
+        inSlope: 0.0775
+        outSlope: 0.0775
+        tangentMode: 10
+      - time: 8
+        value: 0.4
+        inSlope: 0.155
+        outSlope: 0.155
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Personaje4/PupilaF (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Personaje4/PupilaF (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.09436178
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.8333334
+        value: 0.09436178
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0.09436178
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.09436178
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Personaje4/Cejas
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.79
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.8333334
+        value: 0.79
+        inSlope: -0.02076924
+        outSlope: -0.02076924
+        tangentMode: 10
+      - time: 4
+        value: 0.7
+        inSlope: -0.009519236
+        outSlope: -0.009519236
+        tangentMode: 10
+      - time: 8
+        value: 0.79
+        inSlope: 0.022500008
+        outSlope: 0.022500008
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Personaje4/Cejas
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.022031307
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.8333334
+        value: 0.022031307
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0.022031307
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.022031307
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Personaje4/Cejas
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.27236223
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.43333334
+        value: 0.27236223
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.8333333
+        value: 0.27236223
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.3333334
+        value: 0.27236223
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6.4
+        value: 0.27236223
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6.8
+        value: 0.27236223
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 7.3333335
+        value: 0.27236223
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Personaje4/ParpadoD
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.23560017
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.43333334
+        value: 0.23560017
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.8333333
+        value: 0.23560017
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.3333334
+        value: 0.23560017
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6.4
+        value: 0.23560017
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6.8
+        value: 0.23560017
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 7.3333335
+        value: 0.23560017
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Personaje4/ParpadoD
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.05
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.43333334
+        value: 0.05
+        inSlope: -0.07500001
+        outSlope: -0.07500001
+        tangentMode: 10
+      - time: 0.8333333
+        value: -0.01
+        inSlope: -0.0150000155
+        outSlope: -0.0150000155
+        tangentMode: 10
+      - time: 1.3333334
+        value: 0.05
+        inSlope: 0.059999995
+        outSlope: 0.059999995
+        tangentMode: 10
+      - time: 6.4
+        value: 0.05
+        inSlope: -0.07499999
+        outSlope: -0.07499999
+        tangentMode: 10
+      - time: 6.8
+        value: -0.01
+        inSlope: -0.018749982
+        outSlope: -0.018749982
+        tangentMode: 10
+      - time: 7.3333335
+        value: 0.05
+        inSlope: 0.11250001
+        outSlope: 0.11250001
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Personaje4/ParpadoD
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.301
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.43333334
+        value: -0.301
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.8333333
+        value: -0.301
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.3333334
+        value: -0.301
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6.4
+        value: -0.301
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6.8
+        value: -0.301
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 7.3333335
+        value: -0.301
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Personaje4/ParpadoI
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.236
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.43333334
+        value: 0.236
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.8333333
+        value: 0.236
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.3333334
+        value: 0.236
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6.4
+        value: 0.236
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6.8
+        value: 0.236
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 7.3333335
+        value: 0.236
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Personaje4/ParpadoI
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.05
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.43333334
+        value: 0.05
+        inSlope: -0.07500001
+        outSlope: -0.07500001
+        tangentMode: 10
+      - time: 0.8333333
+        value: -0.01
+        inSlope: -0.0150000155
+        outSlope: -0.0150000155
+        tangentMode: 10
+      - time: 1.3333334
+        value: 0.05
+        inSlope: 0.059999995
+        outSlope: 0.059999995
+        tangentMode: 10
+      - time: 6.4
+        value: 0.05
+        inSlope: -0.07499999
+        outSlope: -0.07499999
+        tangentMode: 10
+      - time: 6.8
+        value: -0.01
+        inSlope: -0.018749982
+        outSlope: -0.018749982
+        tangentMode: 10
+      - time: 7.3333335
+        value: 0.05
+        inSlope: 0.11250001
+        outSlope: 0.11250001
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Personaje4/ParpadoI
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []
